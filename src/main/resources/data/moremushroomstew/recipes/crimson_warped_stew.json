@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moremushroomstew:crimson_stew"
+    },
+    {
+      "item": "moremushroomstew:warped_stew"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "moremushroomstew:crimson_warped_stew"
+  }
+}
